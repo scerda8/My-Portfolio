@@ -1,0 +1,34 @@
+[
+    {
+        "title":"Project: SVG Logo Maker",
+        "imageSrc":"projects/project 1.png",
+        "description":"This is the project I did for Object-Oriented Programming (OOP), It was made to create a svg logo maker",
+        "skills":["Node index.js","inquirer.js","jest testing"],
+        "demo":"https://app.screencastify.com/v3/watch/qKiVJRfasd5tSXVXOceZ",
+        "source":"https://github.com/scerda8/OOP-SVG-Logo-Maker.git"
+    },
+    {
+        "title":"Project: My Blog",
+        "imageSrc":"projects/blog.png",
+        "description":"This is the project I did for Web APIS , It was made to create a blog in order to view and input blog posts",
+        "skills":["Javascript","DOM","utilizing local storage"],
+        "demo":"https://scerda8.github.io/My-blogs/",
+        "source":"https://github.com/scerda8/My-blogs.git"
+    },
+    {
+        "title":"Project: Code Hunt",
+        "imageSrc":"projects/codehunt.png",
+        "description":"This is the project I did for Web APIS , It was made to create a blog in order to view and input blog posts",
+        "skills":["Jquery,APIS,Bootstrap,Javascript,Node.js,Jest testing,Sequelize,Express,style.css,Bcrypt,env"],
+        "demo":"https://code-hunt.onrender.com/",
+        "source":"https://github.com/PrestonNguyen2001/Code-Hunt.git"
+    },
+    {
+        "title":"Project: Dynamic Resume Builder",
+        "imageSrc":"projects/codehunt.png",
+        "description":"This is the project I did for Web APIS , It was made to create a blog in order to view and input blog posts",
+        "skills":["HTML, CSS, JavaScript, Bootstrap,Web Apis"],
+        "demo":"https://prestonnguyen2001.github.io/Dynamic-Resume-Builder/",
+        "source":"https://github.com/PrestonNguyen2001/Dynamic-Resume-Builder.git"  
+    }
+]
