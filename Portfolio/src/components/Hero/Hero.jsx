@@ -1,8 +1,7 @@
 
 import React from "react";
-// import { getimageUrl } from "../../utils";
 import styles from "./Hero.module.css";
-// import resume from '../../../assets/Resume/Resume (3).pdf';
+
 export const Hero=()=>{
     return (
     <section id="home" className={styles.container}>

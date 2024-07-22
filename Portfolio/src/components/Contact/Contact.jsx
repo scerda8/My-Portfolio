@@ -23,14 +23,6 @@ export const Contact= () =>{
                     <a href="https://www.linkedin.com/in/shandy-cerda-34b619164/">https://www.linkedin.com/in/shandy-cerda-34b619164/</a>
                 </li>
             </ul>
-            {/* <form className="contact-right"></form>
-            <label htmlFor="">Your Name</label>
-            <input type="text" placeholder="Enter your name" name="name"></input>
-            <label htmlFor="">Your Email</label>
-            <input type="email" placeholder="Enter your email" name="email"/>
-            <label htmlFor="">Write your message here</label>
-            <textarea name="message" rows="8" placeholder="Enter your message"></textarea>
-            <button type="submit" className="contact-submit">Submit</button> */}
         </footer>
        
     );

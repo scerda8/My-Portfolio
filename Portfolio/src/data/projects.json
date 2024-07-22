@@ -18,17 +18,33 @@
     {
         "title":"Project: Code Hunt",
         "imageSrc":"projects/codehunt.png",
-        "description":"This is the project I did for Web APIS , It was made to create a blog in order to view and input blog posts",
+        "description":"This is the project that was made to help you practice coding problems and enhance your algorithm and data structure skills.",
         "skills":["Jquery,APIS,Bootstrap,Javascript,Node.js,Jest testing,Sequelize,Express,style.css,Bcrypt,env"],
         "demo":"https://code-hunt.onrender.com/",
         "source":"https://github.com/PrestonNguyen2001/Code-Hunt.git"
     },
     {
         "title":"Project: Dynamic Resume Builder",
-        "imageSrc":"projects/codehunt.png",
-        "description":"This is the project I did for Web APIS , It was made to create a blog in order to view and input blog posts",
+        "imageSrc":"projects/dynamicresumebuilder.png",
+        "description":"This is the project was made for making the process of building resumes easier",
         "skills":["HTML, CSS, JavaScript, Bootstrap,Web Apis"],
         "demo":"https://prestonnguyen2001.github.io/Dynamic-Resume-Builder/",
         "source":"https://github.com/PrestonNguyen2001/Dynamic-Resume-Builder.git"  
+    },
+    {
+        "title":"Project: CMS Tech Blog",
+        "imageSrc":"projects/CMS.png",
+        "description":"This is the project was made for empowering developers to publish their articles and interact with fellow contributors",
+        "skills":["HTML, CSS, JavaScript, Bootstrap,Web Apis"],
+        "demo":"https://cms-tech-blog.onrender.com/",
+        "source":"https://github.com/scerda8/CMS-Tech-Blog.git"  
+    },
+    {
+        "title":"Project:PWA Text Editor",
+        "imageSrc":"projects/Jate.png",
+        "description":"This is the project was made as a text editor to create notes or code snippets with or without internet connection",
+        "skills":["HTML, CSS, JavaScript, Bootstrap,Web Apis"],
+        "demo":"https://pwa-text-editor-gdwt.onrender.com",
+        "source":"https://github.com/scerda8/PWA-Text-Editor.git"  
     }
 ]
