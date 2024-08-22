@@ -17,7 +17,7 @@ export const Resume=()=>{
     <h3 className={styles.title}>Back-end Proficiencies</h3>
     <ul className={styles.skills}>
         <li>Node</li>
-        <li>Postgressql,Sequelize</li>
+        <li>PostgresSQL,Sequelize</li>
         <li>MongoDB</li>
         <li>Express</li>
     </ul>
