@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Hero.module.css";
-import resume from "../../../assets/Resume/myresume.pdf";
+import resume from "../../../assets/Resume/resume1.pdf";
 
 export const Hero = () => {
   return (
@@ -15,7 +15,7 @@ export const Hero = () => {
         </a>
         <a
           href={resume}
-          download={'resume'}
+          download={'resume1.pdf'}
           className={styles.resumeBtn}
         >
           Download My Resume
